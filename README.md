@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Shahzaib
 
 - 🎓 BSCS student (2nd semester) – currently learning the basics.  
-- 📁 **[cs-degree-projects](link-to-repo)** – assignments and projects from my CS degree.  
+- 📁 **[cs-degree-projects](https://github.com/SHaHZ-KH/cs-degree-projects.git)** – assignments and projects from my CS degree.  
 - 🌐 **[web-dev-projects](https://github.com/SHaHZ-KH/web-dev-projects.git)** – web development projects I build alongside my studies.  
 - 🚀 I believe in learning by doing, so I'll be posting everything I create here.
 
